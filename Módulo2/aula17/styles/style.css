@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+}
+
+.caixa {
+    width: 300px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.caixa p {
+    color: red;
+}
